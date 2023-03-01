@@ -10,11 +10,13 @@ My name is Sykong Yang and I'm a full-stack developer wrapping up a bachelors in
 When I'm not programming, I'll probably be unplugged and surrounded by nature 🌳.
 
 <br>
-<a href='https://www.linkedin.com/in/sykong-yang-07a6141b6/' target='_'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href='mailto:sykong.yang1@outlook.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-" alt='Email'></a>
-<a href='https://sykong.dev' target='_'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-' alt='Portfolio'></a>
+<div>
+    <a href='https://www.linkedin.com/in/sykong-yang-07a6141b6/' target='_'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href='mailto:sykong.yang1@outlook.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    " alt='Email'></a>
+    <a href='https://sykong.dev' target='_'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+    ' alt='Portfolio'></a>
+</div>
 <hr><br>
 
 _I'm currently..._
