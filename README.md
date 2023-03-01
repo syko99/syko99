@@ -1,16 +1,129 @@
-### Hi there 👋
+# 🏕️ Sykong Yang
 
-<!--
-**syko99/syko99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman - Full Stack Developer - Occasional Bug Creator`**
+<br><br>
 
-Here are some ideas to get you started:
+# 👋 Hey there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Sykong Yang and I'm a full-stack developer wrapping up a bachelors in Computer Science. That being said, I am never done learning and constantly honing my skills as a developer. Becoming a developer is result of my passion to build and design things. I am very driven to create quality and functional products.
+
+When I'm not programming, I'll probably be unplugged and surrounded by nature 🌳.
+
+<br>
+<div style="display: flex; align-items: center;"><a href='https://www.linkedin.com/in/sykong-yang-07a6141b6/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href='mailto:sykong.yang1@outlook.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"></a>
+<a href='https://sykong.dev'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+'></a></div>
+<hr><br>
+
+_I'm currently..._
+
+- learning to leverage more web development technologies
+- **looking for full time positions** 🤝
+  <br><br>
+
+# 🛠️ Toolbelt
+
+<table>
+  <tr>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+        <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/javascript/javascript-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/mysql/mysql-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/java/java-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/rails/rails-plain.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="Rails"
+      />
+      <br /><strong>Rails</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/php/php-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="PHP"
+      />
+      <br /><strong>PHP</strong>
+    </td>
+  </tr>
+</table>
