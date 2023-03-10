@@ -1,6 +1,6 @@
 # 🏕️ Sykong Yang
 
-**`Digital Craftsman - Full Stack Developer - Occasional Bug Creator`**
+**`Key Presser - Full Stack Developer - Occasional Bug Creator`**
 <br><br>
 
 # 👋 Hey there!
@@ -12,10 +12,9 @@ When I'm not programming, I'll probably be unplugged and surrounded by nature �
 <br>
 <div>
     <a href='https://www.linkedin.com/in/sykong-yang-07a6141b6/' target='_'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href='mailto:sykong.yang1@outlook.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-    " alt='Email'></a>
+    <a href='mailto:sykong.yang1@outlook.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=27 alt='Email'></a>
     <a href='https://sykong.dev' target='_'><img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-    ' alt='Portfolio'></a>
+    ' height=30 alt='Portfolio'></a>
 </div>
 <hr><br>
 
@@ -26,7 +25,6 @@ _I'm currently..._
   <br><br>
 
 # 🛠️ Toolbelt
-
 <table>
   <tr>
     <td align="center" style="aspect-ration: 1/1; width: 100px">
@@ -36,6 +34,14 @@ _I'm currently..._
         alt="React"
       />
       <br /><strong>React</strong>
+    </td>
+    <td align="center" style="aspect-ration: 1/1; width: 100px">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        style="aspect-ratio: 1/1; width: 45px"
+        alt="React"
+      />
+      <br /><strong>Webpack</strong>
     </td>
         <td align="center" style="aspect-ration: 1/1; width: 100px">
       <img
